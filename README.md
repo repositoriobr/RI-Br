@@ -1,6 +1,6 @@
 # RI-Br {Sistema Web de Repositório Institucional}
 
-Projeto de Repositório Institucional com foco em no gerenciamento de Pesquisa, Extensão e Publicações.
+Projeto de Repositório Institucional com foco no gerenciamento de Pesquisa, Extensão e Publicações.
 
 Funcionalidades:
   # -Relatórios,
