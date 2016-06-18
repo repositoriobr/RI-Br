@@ -25,7 +25,7 @@
     <h1 class="ls-brand-name">
       <a href="painel.php" class="ls-ico-cog">
         <small>Painel do administrador</small>
-        RIIFBA
+        RI-Br
       </a>
     </h1>
 
