@@ -146,7 +146,7 @@ if($form && $form['submit']){
 		?>
 		
 			<div class="row text-center">
-				<h1>RI<span class="ft">IFBA</span></h1>
+				<h1>RI<span class="ft">-Br</span></h1>
 				<h2>Repositório Institucional do IFBA <i>Campus</i> Vitória da Conquista</h2>
 		
 				<div class="col-md-12 col-lg-12 c">
@@ -225,7 +225,7 @@ if($form && $form['submit']){
 			<div class="row">
 				<div class="pre-cop"></div>
 				<div class="cop">
-					<p>2015-<?= date('Y');?> RIIFBA. Desenvolvido por <a href="http://lattes.cnpq.br/5590242674758693" target="__blank" class="lattes" title="Lattes">Breno Lessa</a> e <a href="http://lattes.cnpq.br/7272567597428470" target="__blank" class="lattes" title="Lattes">Moara Brito</a></p>
+					<p>2015-<?= date('Y');?> RI-Br. Desenvolvido por <a href="https://github.com/brenolessa" target="__blank" class="lattes" title="GitHub">Breno Lessa</a> e <a href="https://github.com/moarabrito" target="__blank" class="lattes" title="GitHub">Moara Brito</a></p>
 				</div>
 			</div>
 		</div>
